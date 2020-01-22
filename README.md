@@ -1,2 +1,5 @@
 # hello-world
-This is my intro to GitHub
+This is an intro to GitHub.
+
+I'm from Ontario.
+Canada!
